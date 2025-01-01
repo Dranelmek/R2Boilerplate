@@ -37,7 +37,7 @@ namespace ExamplePlugin
         // we will deprecate this mod.
         // Change the PluginAuthor and the PluginName !
         public const string PluginGUID = PluginAuthor + "." + PluginName;
-        public const string PluginAuthor = "AuthorName";
+        public const string PluginAuthor = "Drane";
         public const string PluginName = "ExamplePlugin";
         public const string PluginVersion = "1.0.0";
 
